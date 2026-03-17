@@ -29,4 +29,6 @@
     "not ie <= 11",
     "not op_mini all"
   ]
+  "resolutions": {
+  "ajv": "^8.0.0"
 }
